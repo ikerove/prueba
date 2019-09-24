@@ -16,6 +16,7 @@ public class Main extends JFrame {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Main ma = new Main();
+		System.out.println("Hola mundo desde Java");
 	}
 
 }
