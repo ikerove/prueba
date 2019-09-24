@@ -9,6 +9,8 @@ public class Main extends JFrame {
 	this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 	//this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 	this.setVisible(true);
+	this.setTitle("Titulonuevo");
+	
 	}
 	
 	public static void main(String[] args) {
