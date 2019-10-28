@@ -6,7 +6,7 @@ public class Alumno implements Serializable {
 	
 	private String nombre;
 	 private String apellido;
-	 
+	 //aaaaaaaaa
 	 
 	 public Alumno() {}
 	 
